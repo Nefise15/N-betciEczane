@@ -1,5 +1,5 @@
 # Nöbetçi Eczane Sitesi
-vercel linl: https://n-betci-eczane.vercel.app/
+Vercel link: https://n-betci-eczane.vercel.app/
 Bu proje, Bursa'daki nöbetçi eczaneleri listeleyen ve kullanıcıya en yakın eczaneyi bulma imkanı sunan bir web uygulamasını içerir.
 ## Geliştirenler
 
